@@ -2,6 +2,17 @@
 
 A modern e-commerce mobile application built with Flutter.
 
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/home_page.jpg" width="250"/>
+  <img src="screenshots/signin_page.jpg" width="250"/>
+  <img src="screenshots/account_page.jpg" width="250"/>
+  <img src="screenshots/profile_logout_page.jpg" width="250"/>
+  <img src="screenshots/register_page.jpg" width="250"/>
+
+
+</p>
 
 ## ✨ Features
 
